@@ -1,0 +1,3 @@
+/Users/ann/Documents/se-cpp-prog-ndarray-Angeli-an/build/CMakeFiles/runTests.dir
+/Users/ann/Documents/se-cpp-prog-ndarray-Angeli-an/build/CMakeFiles/edit_cache.dir
+/Users/ann/Documents/se-cpp-prog-ndarray-Angeli-an/build/CMakeFiles/rebuild_cache.dir
